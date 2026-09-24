@@ -1,0 +1,33 @@
+[
+  {
+    "train_id": "basc",
+    "train_no": 122335,
+    "seats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stations": [
+      "Bangalore",
+      "Jaipur",
+      "Delhi"
+    ]
+  },
+  {
+    "train_id": "rajdhani",
+    "train_no": 12951,
+    "seats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stations": [
+      "Mumbai",
+      "Ahmedabad",
+      "Jaipur",
+      "Delhi"
+    ]
+  }
+]
